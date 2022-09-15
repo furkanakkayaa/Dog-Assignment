@@ -7,3 +7,4 @@
 6. Pugs
 7. Poodles
 8. Chihuahua
+9. Alaskan Malamute
